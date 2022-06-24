@@ -10,7 +10,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  double/*!*/ _height;
+  double? _height;
 
   @override
   initState() {
