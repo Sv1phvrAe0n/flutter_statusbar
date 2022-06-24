@@ -1,14 +1,13 @@
 name: flutter_statusbar
 description: A flutter plugin to fetch statusbar info like height.
-version: 0.0.1
-author: JZoom <jsoom8112@gmail.com>
+version: 0.1.0-nullsafety.0
 homepage: https://github.com/jzoom/flutter_statusbar
 
 dependencies:
   flutter:
     sdk: flutter
 environment:
-  sdk: ">=2.0.0-dev.48.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
   flutter: ">=0.1.4 <3.0.0"
 
 # For information on the generic Dart part of this file, see the
