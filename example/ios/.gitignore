@@ -12,6 +12,8 @@ build/
 GeneratedPluginRegistrant.h
 GeneratedPluginRegistrant.m
 
+**/ios/Flutter/flutter_export_environment.sh
+
 .generated/
 
 *.pbxuser
